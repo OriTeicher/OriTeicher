@@ -2,7 +2,7 @@
 ### Currently working on a Twitter clone with React and TypeScript and Firebase<br>
 checkout my Trello clone: <a style="fontSize:50px;">[https://jello-i4lp.onrender.com ](https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085)</a>
 <br><br>
-<img src="https://github.com/OriTeicher/OriTeicher/assets/119428349/eee60d7c-4e8e-4338-8e79-2fb78affa0d7" alt="Board" width="800px" height="300">
+![image](https://github.com/OriTeicher/OriTeicher/assets/101281765/c2265b9d-4200-4574-b109-3a7d69c594d1)
 
 ## 🖥️ My tech skills:
 ### Programming languages: 
