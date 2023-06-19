@@ -14,6 +14,6 @@ checkout my Trello clone: <a style="fontSize:50px;">[https://jello-i4lp.onrender
 [![Backend](https://skillicons.dev/icons?i=c,redux,postman)](https://skillicons.dev)
 
 ### Contact me : 
-[<img alt="LinkedIn Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](your-link)
+[<img alt="LinkedIn Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](your-link)
 &nbsp;
-[<img alt="Mail Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" />](mailto:your-mail)
+[<img alt="Mail Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" />](mailto:your-mail)
