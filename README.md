@@ -1,8 +1,9 @@
+## ⬅️⬅️⬅️ This is not how i actually look..
 # 🌐💻🖱️ About me 🖱️💻🌐
 ### Currently working on a Twitter clone with React, TypeScript, Firebase & Nest.js <br> hopefully Eilon Musk won't sue me 🤞
-checkout my Trello clone: <a style="fontSize:50px;">[https://jello-i4lp.onrender.com ](https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085)</a>
-<br><br>
-<img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/c2265b9d-4200-4574-b109-3a7d69c594d1" alt="Your Image" style="width:100vw;">
+#### checkout my Trello clone: <a style="fontSize:50px;">[https://jello-i4lp.onrender.com ](https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085)</a>
+
+<img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/c2265b9d-4200-4574-b109-3a7d69c594d1" alt="Your Image" style="width:500px;">
 
 ### Frontend Skills :
 [![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,html,css,sass,bootstrap)](https://skillicons.dev)
