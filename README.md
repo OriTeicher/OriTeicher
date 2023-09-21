@@ -1,5 +1,5 @@
 # 🌐💻🖱️ About me 🖱️💻🌐
-### First of all This is not how i actually look... I have more beard than that! 
+### First of all this is not how i actually look... ( I got more beard ) 
 ####  Currently being working on a mix of Twitter & Spotify clone (called "Tweetify").<br> Hopefully Eilon Musk & The Spotify founders won't sue me after i'll finish it 🤞 <br><br> The technologies im using for this project: React (TSX) | Firebase | Nest.js | SCSS 
 ####  Also started working on my portfolio : https://oriteicher.github.io/Portfolio/ <br>  Checkout my Trello clone: [https://jello-i4lp.onrender.com ](https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085) 
 <img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/8b865222-d8e5-40bb-951a-df311c5d6442" style="width:550px;">
