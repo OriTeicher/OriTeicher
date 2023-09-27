@@ -1,7 +1,7 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;" >
         <h2 style="font-size: 55px; text-align: center;">💻🖱️🎹🎸 About Me 🎸🎹🖱️💻</h2>
-        <p style="font-size: 24px; text-align: center;">⚪ Currently working on a mix of Twitter & Spotify clone (called Tweetify) <br>
-          ⚪ Hopefully, Elon Musk & The Spotify founders won't sue me after I finish it <br>
+        <p style="font-size: 24px; text-align: center;">⚪ Currently working on a mix of Twitter & Spotify clone: <a href="https://oriteicher.github.io/Tweetify" style="text-decoration: none; color: #007bff;"> Tweetify Demo</a><br>
+          ⚪ Hopefully, Elon Musk & The Spotify founders won't sue me after I finish it... <br>
           ⚪ The technologies I'm using for this project: React (TSX) | Firebase | Nest.js | SCSS | MUI <br>
         </p>
            <p style="font-size: 40px;"> Also started working on my portfolio: <a href="https://oriteicher.github.io/Portfolio" style="text-decoration: none; color: #007bff;"> PortfoliOri</a> <br>
