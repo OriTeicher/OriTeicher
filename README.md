@@ -5,7 +5,7 @@
           ⚪ The technologies I'm using for this project: React (TSX) | Firebase | Nest.js | SCSS | MUI <br>
         </p>
            <p style="font-size: 40px;"> Also started working on my portfolio: <a href="https://oriteicher.github.io/Portfolio" style="text-decoration: none; color: #007bff;"> PortfoliOri</a> <br>
-             Checkout my latest project: Jello - a Trello clone:<a href="https://jello-i4lp.onrender.com" style="text-decoration: none; color: #007bff;"> Jello Demo</a> (takes some time to load.. be patient it'll be worth it 😉) </h5>
+             Checkout my latest project: Jello - a Trello clone:<a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085" style="text-decoration: none; color: #007bff;"> Jello Demo</a> (takes some time to load.. be patient it'll be worth it 😉) </h5>
         </p>
         <img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/4cd85e27-2126-450a-b46b-60b80221abaa" alt="Profile Image" style="width: 41vw; display: block; margin: 0 auto;">
         <h3 style="font-size: 24px;">🔴 Frontend Skills </h3>
