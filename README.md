@@ -17,7 +17,6 @@
             <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=sass" alt="SASS" style="width: 50px; height: 50px;">
-            <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px;">
         </div>
         <h3 style="font-size: 24px;">🟡 Backend Skills </h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px;">
