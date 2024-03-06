@@ -7,8 +7,8 @@
 <!--            <p style="font-size: 40px;"> Also started working on my portfolio: <a href="https://oriteicher.github.io/Portfolio" style="text-decoration: none; color: #007bff;"> PortfoliOri</a> <br> -->
 <!--              Checkout my latest project: Jello - a Trello clone:<a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085" style="text-decoration: none; color: #007bff;"> Jello Demo</a> (takes some time to load.. be patient it'll be worth it 😉) </h5> -->
         </p>
-<!--         <img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/4cd85e27-2126-450a-b46b-60b80221abaa" alt="Profile Image" style="width: 41vw; display: block; margin: 0 auto;">
-        <h3 style="font-size: 24px;">🔴 Frontend Skills </h3> -->
+<!-- <!--         <img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/4cd85e27-2126-450a-b46b-60b80221abaa" alt="Profile Image" style="width: 41vw; display: block; margin: 0 auto;"> -->
+        <h3 style="font-size: 24px;">🔴 Frontend Skills </h3> 
         <div>
             <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=vue" alt="Vue" style="width: 50px; height: 50px;">
@@ -40,9 +40,6 @@
 <a href="mailto:oriteicher5@gmail.com" style="text-decoration: none; color: #007bff;">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://twitter.com/OriTeicher" style="text-decoration: none; color: #007bff;">
-    <img alt="Twitter Badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-        </div>
+
 
 </div>
