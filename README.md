@@ -1,11 +1,11 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;" >
         <h2 style="font-size: 55px; text-align: center;">💻🖱️🎹🎸 About Me 🎸🎹🖱️💻</h2>
         <p style="font-size: 24px; text-align: center;">⚪ Currently working on a mix of Twitter & Spotify clone: <a href="https://oriteicher.github.io/Tweetify" style="text-decoration: none; color: #007bff;"> Tweetify Demo</a><br>
-          ⚪ Hopefully, Elon Musk & The Spotify founders won't sue me after I finish it... <br>
+<!--           ⚪ Hopefully, Elon Musk & The Spotify founders won't sue me after I finish it... <br> -->
           ⚪ The technologies I'm using for this project: React (TSX) | Firebase | Nest.js | SCSS | MUI <br>
         </p>
-           <p style="font-size: 40px;"> Also started working on my portfolio: <a href="https://oriteicher.github.io/Portfolio" style="text-decoration: none; color: #007bff;"> PortfoliOri</a> <br>
-             Checkout my latest project: Jello - a Trello clone:<a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085" style="text-decoration: none; color: #007bff;"> Jello Demo</a> (takes some time to load.. be patient it'll be worth it 😉) </h5>
+<!--            <p style="font-size: 40px;"> Also started working on my portfolio: <a href="https://oriteicher.github.io/Portfolio" style="text-decoration: none; color: #007bff;"> PortfoliOri</a> <br> -->
+<!--              Checkout my latest project: Jello - a Trello clone:<a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085" style="text-decoration: none; color: #007bff;"> Jello Demo</a> (takes some time to load.. be patient it'll be worth it 😉) </h5> -->
         </p>
 <!--         <img src="https://github.com/OriTeicher/OriTeicher/assets/101281765/4cd85e27-2126-450a-b46b-60b80221abaa" alt="Profile Image" style="width: 41vw; display: block; margin: 0 auto;">
         <h3 style="font-size: 24px;">🔴 Frontend Skills </h3> -->
