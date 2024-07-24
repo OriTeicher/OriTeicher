@@ -12,6 +12,7 @@
         <div>
             <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=vue" alt="Vue" style="width: 50px; height: 50px;">
+            <img src="https://skillicons.dev/icons?i=angular" alt="Angular" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
@@ -25,6 +26,7 @@
             <img src="https://skillicons.dev/icons?i=nest" alt="Nest.js" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;">
             <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 50px; height: 50px;">
+            <img src="https://skillicons.dev/icons?i=postgres" alt="Sql" style="width: 50px; height: 50px;">
         </div>
         <h3 style="font-size: 24px;">🟢 Extras </h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px;">
