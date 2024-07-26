@@ -5,7 +5,7 @@
 ⚪ The technologies I'm using for this project: React (TSX) | Firebase | SCSS | MUI <br>
 <h3 style="font-size: 24px;">🔴 Frontend Skills </h3> 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=150d24&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
 <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=vue" alt="Vue" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=angular" alt="Angular" style="width: 50px; height: 50px;">
