@@ -1,7 +1,7 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;" >
 <h2 style="font-size: 55px; text-align: center;">💻🖱️🎹🎸 About Me 🎸🎹🖱️💻</h2>
-<p style="font-size: 24px; text-align: center;">⚪ Currently working on a mix of Twitter & Spotify clone: <a href="https://oriteicher.github.io/Tweetify" style="text-decoration: none; color: #007bff;"> Tweetify Demo</a><br>
-⚪ The technologies I'm using for this project: React (TSX) | Firebase | SCSS | MUI <br>
+<!-- <p style="font-size: 24px; text-align: center;">⚪ Currently working on a mix of Twitter & Spotify clone: <a href="https://oriteicher.github.io/Tweetify" style="text-decoration: none; color: #007bff;"> Tweetify Demo</a><br>
+⚪ The technologies I'm using for this project: React (TSX) | Firebase | SCSS | MUI <br> -->
 <h3 style="font-size: 24px;">🔴 Frontend Skills </h3> 
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
